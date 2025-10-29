@@ -1,5 +1,7 @@
 # COURS DE SCIENCE DES DONNÉES
 # ASMAE HASSI
+Pour insérer un image/
+<img src="WhatsApp Image 2025-10-29 at 11.36.26.jpeg" style="height:464px;margin-right:432px"/>
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
